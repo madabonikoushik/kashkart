@@ -4,7 +4,7 @@ Welcome to **kashkart**, a minimalist banking interface designed for educational
 
 ## 🖥️ Preview
 
-![Bankist UI Screenshot](./assets/screenshot.png) <!-- Replace with actual path if hosted -->
+![Image](https://github.com/user-attachments/assets/8c8df2aa-555a-4027-9db3-f189396c2967)<!-- 
 
 ## 🚀 Features
 
