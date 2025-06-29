@@ -8,7 +8,7 @@ Welcome to **kashkart**, a minimalist banking interface designed for educational
 
 ## 🚀 Features
 
-- ✅ User login with username and PIN
+- ✅ User login with username and PIN (for trial use username as JS and password as 1111)
 - 💰 Transfer money between accounts
 - 💵 Deposit and withdraw funds
 - 🏦 Request loans
